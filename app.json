@@ -1,0 +1,14 @@
+{
+   "app": {
+      "isActive": true,
+      "logLevel": "INFO",
+      "name": "MyAwesomeApp",
+      "version": "2.3.1"
+   },
+   "debugLog": "DEBUG: This is a debug message",
+   "startMessage": {
+      "message": "INFO: Application MyAwesomeApp started",
+      "status": "running"
+   },
+   "summaryInfo": "Name: MyAwesomeApp, Version: 2.3.1, Active: Yes"
+}
